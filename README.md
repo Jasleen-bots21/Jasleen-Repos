@@ -1,0 +1,4 @@
+- 👋 Hello, my name is Jasleen Kaur Bhatia.
+- 👀 I worked as a Data Architect Specialist. 
+- 🌱 I'm now getting a Master's degree in Data Science.
+- 📫 Reach me at jasleenbhatia.ds@gmail.com.
